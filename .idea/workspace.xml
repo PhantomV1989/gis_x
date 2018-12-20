@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e03d56b-4324-485f-a63a-9b7f4f0e8896" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Crawler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/1862.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/1922.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/1932.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/2082.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/2132.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/572.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/582.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/632.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/756416231144738" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/Shortlisted.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/__Bz3h5RzMx.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/a_002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/all.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/analytics.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/bat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/beacon.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/bluebird.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/bootstrap-toggle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/cc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/chatbot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/chatbot.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/clipboard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/closebtn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/conversion_async.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/element.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/element_main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/fbevents.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/footerlogo-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/footerlogo-10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/footerlogo-11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/footerlogo-12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/footerlogo-13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/footerlogo-14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/footerlogo-15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/footerlogo-16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/footerlogo-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/footerlogo-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/footerlogo-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/footerlogo-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/footerlogo-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/footerlogo-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/footerlogo-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/footerlogo-9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/ga.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/global-footer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/global-lib.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/googleAd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/googlelogo_color_42x16dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/gpt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/grids.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/icon-360.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/icon-concierge-grey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/icon_contact_facebook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/icon_contact_instagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/icon_contact_mail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/icon_contact_phone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/icon_contact_twitter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/icon_contact_youtube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/icon_facebook_signin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/image-classified.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/integrator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/integrator_002.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/intlTelInput.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/jquery-ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/jquery1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/jquery_002.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/js.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/jsapi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/listingsPage-all.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/listingsPage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/map.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/markerwithlabel_packed-1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/messengermessageus.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/messengermessageus_002.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/messengermessageus_data_002/1BBfj2rPCc_.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/messengermessageus_data_002/3pcYMrDiGRF.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/messengermessageus_data_002/4qDvrLNsiq3.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/messengermessageus_data_002/4ut9W4-wTg_.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/messengermessageus_data_002/6TnKCeajWEL.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/messengermessageus_data_002/6neEq6uenGS.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/messengermessageus_data_002/94opnalmU8p.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/messengermessageus_data_002/B0YhlEin4cB.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/messengermessageus_data_002/C1DXVmXsYp8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/messengermessageus_data_002/HGZqOvvLzgS.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/messengermessageus_data_002/PJuv8B2YRG0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/messengermessageus_data_002/QkWSdziLCFM.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/messengermessageus_data_002/RKh6tMa5UP-.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/messengermessageus_data_002/UVxxAWJkZxN.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/messengermessageus_data_002/VDr7gAgbYXK.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/messengermessageus_data_002/WLe6j13bkUg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/messengermessageus_data_002/WaHW6bg_hDT.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/messengermessageus_data_002/bIvxCRWAi9r.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/messengermessageus_data_002/cPGYbnhkPLi.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/messengermessageus_data_002/do8tlG3GPE5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/messengermessageus_data_002/hCAaRfpRKum.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/messengermessageus_data_002/mI4NEzy_L1j.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/messengermessageus_data_002/nUj5gwBtkGK.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/messengermessageus_data_002/rJVHJZS_DOz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/messengermessageus_data_002/s6gGy2zdGav.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/null.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/null_002.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/null_003.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/null_004.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/null_005.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/photo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/photo_002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/photo_003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/photo_004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/photo_005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/pubads_impl_266.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/rtifr.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/searchGlobal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/shortlist.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/singpass-logo-white-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/srx-logo-120x134.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/srx.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/srx_002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/srx_003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/srx_004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/srx_analyzer45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/srx_dmp_tag.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/translate_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/translateelement.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/typeahead.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/userinfo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Property For Sale - Singapore Properties, Houses For Sale | SRX.com.sg_files/xlisting-price.png" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/main.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="94" />
+    <option name="y" value="88" />
+    <option name="width" value="1345" />
+    <option name="height" value="722" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="gis_x" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gis_x" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gis_x" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gis_x" type="462c0819:PsiDirectoryNode" />
+              <item name="sites" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e03d56b-4324-485f-a63a-9b7f4f0e8896" name="Default Changelist" comment="" />
+      <created>1545288989030</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545288989030</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="59" y="-4" width="1381" height="814" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16568483" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32896653" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32896653" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32896653" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Crawler.js" />
+    <entry file="file://$PROJECT_DIR$/.archived/Crawler.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
